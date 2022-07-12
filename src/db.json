@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "name": "Person",
+      "email": "person@gmail.com",
+      "phone": "998946614577",
+      "password": "person123",
+      "PINFL": "35798356489526",
+      "birthday_date": "1990-02-15",
+      "id": 1
+    }
+  ],
+  "contacts": [
+    {
+      "first_name": "Anvar",
+      "last_name": "Azizov",
+      "phone_number": "998946614577",
+      "id": 2
+    },
+    {
+      "first_name": "Ravshan",
+      "last_name": "Ermatov",
+      "phone_number": "998957658590",
+      "id": 3
+    },
+    {
+      "first_name": "Ilhom",
+      "last_name": "Rahmonov",
+      "phone_number": "998943548787",
+      "id": 4
+    },
+    {
+      "first_name": "Feruza",
+      "last_name": "Nasimova",
+      "phone_number": "998906458895",
+      "id": 5
+    },
+    {
+      "first_name": "Davron",
+      "last_name": "Nizomov",
+      "phone_number": "998972954477",
+      "id": 6
+    },
+    {
+      "first_name": "Go'zal",
+      "last_name": "Muhammedova",
+      "phone_number": "998935056698",
+      "id": 8
+    },
+    {
+      "first_name": "Azamat",
+      "last_name": "Namozov",
+      "phone_number": "998947904575",
+      "id": 9
+    },
+    {
+      "first_name": "Sherzod",
+      "last_name": "Muqimov",
+      "phone_number": "998972447550",
+      "id": 10
+    },
+    {
+      "first_name": "Alisher",
+      "last_name": "Uzoqov",
+      "phone_number": "998955644488",
+      "id": 11
+    },
+    {
+      "first_name": "Bobur",
+      "last_name": "Hamidov",
+      "phone_number": "998913548998",
+      "id": 12
+    }
+  ]
+}
