@@ -35,6 +35,9 @@ export default {
     min-width: 100px;
     min-height: 100px;
 }
+.nav-container ul{
+    position: absolute;
+}
 
 .nav-container ul li {
     list-style: none;
@@ -46,6 +49,8 @@ export default {
 }
 .nav-container div{
     position: absolute;
+    top: 75px;
+    right: 0;
     margin-top: 100px;
     margin-right: 50px;
 }

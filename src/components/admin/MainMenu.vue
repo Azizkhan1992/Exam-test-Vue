@@ -26,9 +26,9 @@ export default {
 .menu{
     margin-top: 10px;
     width: 250px;
-    height: 550px;
+    height: 98%;
     box-shadow: 5px 0 5px 0 rgb(0, 0, .1);
-    background-color: green;
+    background-color: linear-gradient(0deg, #EEEEEE 0%, rgba(245, 245, 245, 0.79) 43.81%, rgba(255, 255, 255, 0) 82.46%);;
 }
 .menu ul{
     margin-top: 25px;
@@ -36,6 +36,12 @@ export default {
 }
 .menu ul li a{
     text-decoration: none;
-    color: black;
+    color: #323941;
+    transition: all .25s ease;
+}
+.menu ul li a:hover{
+    color: #009eff;
+    transform: scale(1.25);
+    transition: all .25s ease;
 }
 </style>

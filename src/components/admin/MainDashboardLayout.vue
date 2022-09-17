@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="main-container">
     <header-layout />
     <div class="main-body">
         <main-menu/>
@@ -27,8 +27,13 @@ export default {
 </script>
 
 <style scoped>
+    .main-container{
+        width: 100%;
+        height: 100vh;
+    }
 .main-body {
     display: flex;
+    height: 88%;
 }
 
 .main-content {
