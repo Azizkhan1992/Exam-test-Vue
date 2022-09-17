@@ -28,4 +28,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-<p><img align="left" alt="gif" src="https://github.com/Azizkhan1992/Exam-test-Vue/blob/main/Exam1.gif" width="400" height="320"/></p>
+<p><img align="left" alt="gif" src="https://github.com/Azizkhan1992/Exam-test-Vue/blob/main/Exam1.gif" width="450" height="320"/></p>
